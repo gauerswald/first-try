@@ -1,2 +1,2 @@
 # first-try
-just for learning
+Readme please
